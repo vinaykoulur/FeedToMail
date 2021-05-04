@@ -6,4 +6,4 @@ Receive relevant Feeds to your mail
 Set thresholdTime variable equal to lambda funtion trigger time 
 
 # Gmail
-enable less secure apps 
+To use gmail you have to enable less secure apps in your google settings

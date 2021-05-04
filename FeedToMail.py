@@ -15,7 +15,7 @@ emailId = 'abcd@gmail.com'
 emailIdPassword = 'password'
 fromAddress = emailId
 topicOfInterest = ['']
-feedURL = 'http://feeds.feedburner.com/abcd'
+feedURL = 'http://feeds.abcd.com/abcd'
 
 parsedFeed = feedparser.parse(feedURL)
 
